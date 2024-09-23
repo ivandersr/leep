@@ -1,0 +1,25 @@
+{
+  "name": "leep",
+  "displayName": "Laravel Essentials Extension Pack",
+  "description": "Basic set of extensions to work around the basics of Laravel.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.93.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "calebporzio.better-phpunit",
+    "Codeium.codeium",
+    "shufo.vscode-blade-formatter",
+    "bmewburn.vscode-intelephense-client",
+    "bradlc.vscode-tailwindcss"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ivandersr/leep"
+  },
+  "publisher": "ivandersr",
+  "icon": "leep.png"
+}
